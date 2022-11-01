@@ -13,7 +13,7 @@ This is an implementation of a naive's line algorithm done from a set of points.
 $ pip install matplotlib
 ```
 
-### Execute it
+### Execute it
 ```
 $ python3 lines.py
 ```
